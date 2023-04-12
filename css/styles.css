@@ -2,3 +2,9 @@
   height: 300px;
   display: block;
 }
+
+table, th, td{
+  border: 1px solid blue;
+  border-collapse: collapse;
+  width: 960px;
+}
