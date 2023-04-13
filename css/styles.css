@@ -8,3 +8,25 @@ table, th, td{
   border-collapse: collapse;
   width: 960px;
 }
+
+div.secondpara {
+  background-color: red;
+}
+
+div {
+  background-color: blue;
+}
+
+.third-para-span {
+  background-color: forestgreen;
+}
+
+.search-bar {
+  width: 300px;
+  margin-top: 16px;
+  padding-left: 8px;
+}
+
+a:visited {
+  color: green;
+}
