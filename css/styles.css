@@ -15,10 +15,10 @@ nav a:active {
   display: block;
 }
 
-table, th, td{
+table, th, td {
   border: 1px solid blue;
   border-collapse: collapse;
-  width: 960px;
+  width: 500px
 }
 
 div.secondpara {
