@@ -1,3 +1,15 @@
+nav a {
+  color: rgb(230, 166, 17);
+}
+
+nav a:hover {
+  color: blue;
+}
+
+nav a:active {
+  color: red;
+}
+
 .image {
   height: 300px;
   display: block;
@@ -10,7 +22,7 @@ table, th, td{
 }
 
 div.secondpara {
-  background-color: red;
+  background-color: purple;
 }
 
 div {
@@ -18,15 +30,11 @@ div {
 }
 
 .third-para-span {
-  background-color: forestgreen;
+  background-color: green;
 }
 
 .search-bar {
   width: 300px;
   margin-top: 16px;
   padding-left: 8px;
-}
-
-a:visited {
-  color: green;
 }
